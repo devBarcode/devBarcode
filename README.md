@@ -11,9 +11,9 @@ I'm Michele Quartararo, also know as "**BARCODE**" or "**CODICEaBARRE**" in ital
 ### My 'Ipsum' Projects
 I called those Projects "**Ipsum**", in the honor of the common Lorem Ipsum system used for placeholder text.
 
-**See the Live previews**\
-🌐 [IpsumMusic](https://devbarcode.github.io/ableton-about-page-frontend-pratice/) (HTML & CSS Landing Page) - November 28, 2023 \ 
-🌐 [SodaIpsum](https://github.com/devBarcode/sodaipsum-bootstrap-practice) (HTML, CSS & Bootstrap Landing Page) - December 4, 2023
+**See the Live previews**
+- 🌐 [IpsumMusic](https://devbarcode.github.io/ableton-about-page-frontend-pratice/) (HTML & CSS Landing Page) - November 28, 2023 
+- 🌐 [SodaIpsum](https://github.com/devBarcode/sodaipsum-bootstrap-practice) (HTML, CSS & Bootstrap Landing Page) - December 4, 2023
 
 ### 👨‍💻 Personal Links
 
