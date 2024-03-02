@@ -4,7 +4,7 @@
 ⌁ Currently studying UI/UX Design \
 ⌁ Adobe Suite, Figma & HTML/CSS \
 ⌁ Lifelong Learner, 80s Lover, Train Traveler \
-⌁ https://bento.me/michelequartararo \
+⌁ https://bento.me/michelequartararo 
 
 ---
 ### About Me
