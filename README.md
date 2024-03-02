@@ -1,8 +1,10 @@
 # devBarcode
 
-🎨 Junior Graphic Designer \
-🌐 Currently studying Front-End Web Development and UI/UX Design \
-🔨 Adobe Suite & HTML/CSS
+⌁ Graphic Designer \
+⌁ Currently studying UI/UX Design \
+⌁ Adobe Suite, Figma & HTML/CSS \
+⌁ Lifelong Learner, 80s Lover, Train Traveler \
+⌁ https://bento.me/michelequartararo \
 
 ---
 ### About Me
