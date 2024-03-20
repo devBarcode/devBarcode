@@ -10,7 +10,7 @@
 ### About Me
 I'm Michele Quartararo, also know as "**BARCODE**" or "**CODICEaBARRE**" in Italian.
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6530351cb5d7a4eb01df1ee8?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6530351cb5d7a4eb01df1ee8?variant=dark)](https://roadmap.sh)
 
 ### My 'Ipsum' Projects
 I called those Projects "**Ipsum**", in the honor of the common Lorem Ipsum system used for placeholder text.
